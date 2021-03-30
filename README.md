@@ -1,1 +1,1 @@
-# Steyerberg-style validation plots in python
+# Validation plots in python
